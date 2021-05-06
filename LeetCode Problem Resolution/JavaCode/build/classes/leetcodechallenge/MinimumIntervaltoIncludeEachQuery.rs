@@ -1,0 +1,2 @@
+leetcodechallenge.MinimumInterval
+Solution
